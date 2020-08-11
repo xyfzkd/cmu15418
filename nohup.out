@@ -1,0 +1,19 @@
+[I 11:54:14.629 NotebookApp] The port 9879 is already in use, trying another port.
+[I 11:54:14.646 NotebookApp] Loading IPython parallel extension
+[I 11:54:14.682 NotebookApp] JupyterLab extension loaded from /home/xyf/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 11:54:14.682 NotebookApp] JupyterLab application directory is /home/xyf/anaconda3/share/jupyter/lab
+[I 11:54:14.685 NotebookApp] Serving notebooks from local directory: /home/xyf/15418/matrix-cuda
+[I 11:54:14.685 NotebookApp] The Jupyter Notebook is running at:
+[I 11:54:14.685 NotebookApp] http://localhost:9880/?token=f1b98d4f56893a1d0fbefdfdb9fffef9843d6ef4975be52e
+[I 11:54:14.685 NotebookApp]  or http://127.0.0.1:9880/?token=f1b98d4f56893a1d0fbefdfdb9fffef9843d6ef4975be52e
+[I 11:54:14.685 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:54:14.691 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xyf/.local/share/jupyter/runtime/nbserver-18812-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:9880/?token=f1b98d4f56893a1d0fbefdfdb9fffef9843d6ef4975be52e
+     or http://127.0.0.1:9880/?token=f1b98d4f56893a1d0fbefdfdb9fffef9843d6ef4975be52e
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[97m[40m(B[m[39;49m[97m[40m[H[2J[37m[40m[J(B[m[39;49m[97m[40m[22d[93m[44mGetting file://localhost/home/xyf/.local/share/jupyter/runtime/nbserver-18812-o[K(B[m[39;49m[97m[40m
+
+[39;49m[K[24;1H[?1049l[?1l>
